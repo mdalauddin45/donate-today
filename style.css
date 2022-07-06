@@ -22,7 +22,7 @@ body {
     height: 950px;
 }
 
-.first-text {
+#first-text {
     font-size: 120px;
 
 }
@@ -46,7 +46,7 @@ body {
     font-size: 40px;
     padding: 10px 40px;
     text-decoration: none;
-    background-color: tomato;
+    background-image: linear-gradient(tomato, orange);
     color: white;
     border-radius: 10px;
     font-weight: 700;
@@ -214,43 +214,54 @@ body {
 
 }
 
-.ten-sec {
-    margin-bottom: 100px;
-    margin-left: 400px;
-    display: flex;
+.background-sec {
+    border: 1px solid lightgoldenrodyellow;
+    border-radius: 10px;
+    height: 250px;
+    width: 800px;
+    background-color: lightgoldenrodyellow;
+    margin-left: 550px;
+    margin-bottom: 150px;
+}
 
+.border-sec {
+    border: 0px solid rgb(240, 54, 54);
+    height: 52px;
+    width: 468px;
+    display: flex;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-top: 80px;
 
 }
 
-.ten-sec-border {
-    border: 1px solid lightgoldenrodyellow;
-    background-color: lightgoldenrodyellow;
-    height: 200px;
-    width: 800px;
-    display: flex;
-    padding-left: 200px;
+.mail-sec input {
+    height: 50px;
+    width: 300px;
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 20px;
+    padding-left: 16px;
     border-radius: 5px;
 
 }
 
-
-.ten-sec-border input {
-    border: 1px solid black;
-    margin-top: 70px;
-    width: 300px;
-    height: 50px;
-    padding-left: 15px;
-    font-size: 25px;
-
-}
-
-.sub-one input {
-    font-size: 30px;
+.sub-section input {
+    height: 100%;
+    width: 150px;
+    font-size: 20px;
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 5px;
+    background-image: linear-gradient(tomato, orangered);
     background-color: tomato;
     color: white;
-    width: 150px;
-    height: 51px;
-    text-align: center;
+
+
 }
 
 .footer-sec {
