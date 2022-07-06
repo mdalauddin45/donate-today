@@ -46,7 +46,7 @@ body {
     font-size: 40px;
     padding: 10px 40px;
     text-decoration: none;
-    background-image: linear-gradient(tomato, orange);
+    background-color: orangered;
     color: white;
     border-radius: 10px;
     font-weight: 700;
@@ -257,7 +257,6 @@ body {
     border-left: none;
     border-right: none;
     border-radius: 5px;
-    background-image: linear-gradient(tomato, orangered);
     background-color: tomato;
     color: white;
 
