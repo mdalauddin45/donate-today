@@ -1,0 +1,261 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Mulish', sans-serif;
+}
+
+.first-sec {
+    text-align: center;
+    color: white;
+    margin-bottom: 150px;
+
+
+}
+
+.top-banner {
+    background-image: url(./images/donation1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 950px;
+}
+
+.first-taitle {
+    font-size: 70px;
+    padding-top: 250px;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+
+.first-pera {
+    font-size: 25px;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+
+.btn {
+    font-size: 40px;
+    padding: 10px 40px;
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+.second-taitle {
+    font-size: 80px;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.second-sec {
+    margin-bottom: 50px;
+}
+
+.third-sec {
+    margin-bottom: 100px;
+    display: flex;
+    margin-left: 560px;
+
+}
+
+.card01 {
+    border: 1px solid gainsboro;
+    text-align: center;
+    border-radius: 10px;
+    height: 50px;
+    opacity: .6;
+    width: 120px;
+    font-size: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 12px;
+
+}
+
+.card01:hover {
+    box-shadow: 10px 10px 20px gray;
+    border: 5px solid tomato;
+    color: tomato;
+}
+
+.forth-sec {
+    text-align: center;
+    margin-bottom: 150px;
+
+}
+
+.forth-text {
+    margin-bottom: 40px;
+}
+
+.forth-text input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 750px;
+    font-size: 30px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.five-sec {
+    margin-bottom: 40px;
+}
+
+.six-sec {
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 150px;
+}
+
+.card img {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.card {
+    height: 350px;
+    width: 400px;
+    border: 0px solid lightblue;
+    border-radius: 10px;
+    background-color: lightblue;
+    padding-top: 30px;
+    padding: 10px;
+    font-size: 25px;
+    margin: 20px;
+}
+
+.card:hover {
+    box-shadow: 10px 10px 20px gray;
+}
+
+.card-taitle {
+    margin-bottom: 20px;
+}
+
+#card-two {
+    background-color: lightpink;
+}
+
+#card-three {
+    background-color: lightgoldenrodyellow;
+}
+
+.seven-sec {
+    display: flex;
+    margin-bottom: 150px;
+
+}
+
+.seven-sec-taitle {
+    margin-left: 150px;
+}
+
+.seven-taitle {
+    font-size: 70px;
+    margin-bottom: 40px;
+}
+
+.seven-pera {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.donation-one img {
+    border-radius: 10px;
+    margin-left: 120px;
+    height: 550px;
+    width: 500px;
+}
+
+.eight-sec {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.donation-two img {
+    width: 550px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 150px;
+}
+
+.eight-sec-text {
+    margin-left: 150px;
+
+}
+
+.eight-taitle {
+    font-size: 70px;
+    margin-bottom: 40px;
+}
+
+.eight-pera {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.nine-sec {
+    margin-bottom: 40px;
+
+}
+
+.ten-sec {
+    margin-bottom: 100px;
+    margin-left: 400px;
+    display: flex;
+
+
+}
+
+.ten-sec-border {
+    border: 1px solid lightgoldenrodyellow;
+    background-color: lightgoldenrodyellow;
+    height: 200px;
+    width: 800px;
+    display: flex;
+    padding-left: 200px;
+    border-radius: 5px;
+
+}
+
+
+.ten-sec-border input {
+    border: 1px solid black;
+    margin-top: 70px;
+    width: 300px;
+    height: 50px;
+    padding-left: 15px;
+    font-size: 25px;
+
+}
+
+.sub-one input {
+    font-size: 30px;
+    background-color: tomato;
+    color: white;
+    width: 150px;
+    height: 51px;
+    text-align: center;
+}
+
+.footer-sec {
+    background-color: rgb(27, 25, 25);
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.last {
+    color: orangered;
+}
