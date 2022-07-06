@@ -22,6 +22,11 @@ body {
     height: 950px;
 }
 
+.first-text {
+    font-size: 120px;
+
+}
+
 .first-taitle {
     font-size: 70px;
     padding-top: 250px;
@@ -123,13 +128,13 @@ body {
 }
 
 .card {
-    height: 350px;
+    height: 400px;
     width: 400px;
     border: 0px solid lightblue;
     border-radius: 10px;
     background-color: lightblue;
     padding-top: 30px;
-    padding: 10px;
+    padding: 15px;
     font-size: 25px;
     margin: 20px;
 }
